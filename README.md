@@ -1,2 +1,2 @@
 # Face_Detection Open CV
- Using Open Cv to tract faces using primary camera of the device
+ Using OpenCV to create a rectangle on the frame of a live video of PC camera
